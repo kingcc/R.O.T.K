@@ -1,4 +1,4 @@
-# Red-Alert-Return-of-the-king
+# RedAlert-ReturnOfTheKing
 ---
 ###Introduction
 This is a Red Alert Mod besic on YR & Npatch.
